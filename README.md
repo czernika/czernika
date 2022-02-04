@@ -10,4 +10,4 @@ I’m currently working on [Brocket framework](https://github.com/czernika/brock
 
 ### I'm on StackOverflow
 
-[![Ihar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14305076&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Ihar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14305076&layout=compact)](https://stackoverflow.com/users/14305076/ihar-aliakseyenka)
