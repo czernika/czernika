@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on [Brocket framework](https://github.com/czernika/brocket) for WordPress
+London is the capital of Great Britain
 
 ### My stats
 
